@@ -1,4 +1,4 @@
-<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">// version:01-2025120902-00
+// version:01-2025120902-00
 // lastupdate:%NDP%LAST_UPDATE%
 
 function FindProxyForURL(url, host)
@@ -801,4 +801,3 @@ function FindProxyForURL(url, host)
 
         return proxyServer;
 }
-</pre></body></html>
